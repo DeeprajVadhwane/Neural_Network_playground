@@ -134,8 +134,8 @@ streamlit==1.32.2
 tangled-up-in-unicode==0.2.0
 tenacity==8.2.3
 tensorboard==2.16.2
-tensorflow==2.7.0
-keras==2.7.0
+tensorflow>=2.7.0,<2.8.0
+keras>=2.7.0,<2.8.0
 tensorboard-data-server==0.7.2
 termcolor==2.4.0
 terminado==0.18.1
